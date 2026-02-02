@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm John Elwassef  
 ### Full Stack .NET Developer | Data Analyst  
 
-Passionate about building scalable web applications and turning data into meaningful insights.
+I am passionate about building scalable web applications and turning data into meaningful insights.
 
 ---
 
